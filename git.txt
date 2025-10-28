@@ -8,7 +8,7 @@ git push -u origin main
 git pull origin main
 
 git add .
-git commit -m "feat: 숫자야구 "
+git commit -m "feat: 영화관 모델 완료, 서비스로 분리하기"
 git push
 
 feat: courseRegistrain Main
